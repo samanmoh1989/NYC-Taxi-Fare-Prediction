@@ -1,4 +1,4 @@
-# NYC Yellow Taxi Fare Prediction (2019/2023)
+# NYC Yellow Taxi Fare Prediction (2019)
 
 ## Introduction
 The New York City Taxi and Limousine Commission (NYC TLC) collects detailed trip records for all yellow taxi rides in the city. 
